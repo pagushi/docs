@@ -1,0 +1,5 @@
+Platform Event : 
+
+Integrations -> Platform Events
+
+sf project retrieve start --metadata CustomObject:Encompass_Event__e
